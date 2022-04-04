@@ -9,7 +9,7 @@ export default function Faq({ data }) {
       <Navigation faq />
       <Hero
         img={
-          'https://www.screenbeam.com/wp-content/uploads/2018/10/usa-webcash-faq-banner-image.jpg'
+          'http://www.silverlinesupplies.com/media/wysiwyg/infortis/ultimo/custom/landing/faq-banner.jpg'
         }
         title={'Frequently Asked Questions'}
         subtitle={'Scroll down and read our Frequently asked questions'}
