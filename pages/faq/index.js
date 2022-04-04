@@ -8,9 +8,7 @@ export default function Faq({ data }) {
     <div>
       <Navigation faq />
       <Hero
-        img={
-          'http://www.silverlinesupplies.com/media/wysiwyg/infortis/ultimo/custom/landing/faq-banner.jpg'
-        }
+        img={'https://zebyl.com/wp-content/uploads/2019/09/faq_banner.jpg'}
         title={'Frequently Asked Questions'}
         subtitle={'Scroll down and read our Frequently asked questions'}
       />
