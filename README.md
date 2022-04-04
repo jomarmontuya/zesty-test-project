@@ -20,4 +20,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 Endpoint: /api/revalidate
 ```
 
-api routes to revalidate page content when server updated
+site is build as static site but, you can revalidate data from this endpoint if server is updated
+
+To view deployed sites
+https://zesty-test-project-oqo2d3s42-jomarmontuya.vercel.app/
