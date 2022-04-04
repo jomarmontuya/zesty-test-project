@@ -23,4 +23,4 @@ Endpoint: /api/revalidate
 site is build as static site but, you can revalidate data from this endpoint if server is updated
 
 To view deployed sites
-https://zesty-test-project-oqo2d3s42-jomarmontuya.vercel.app/
+https://zesty-test-project.vercel.app/
