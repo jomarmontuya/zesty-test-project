@@ -5,7 +5,7 @@ const FAQAccordion = ({ data }) => {
     return { __html: data }
   }
   return (
-    <div className="py-5 w-50 mx-auto">
+    <div className="py-5 w-75 mx-auto">
       <h1 className="text-center theme-color-secondary">FAQs</h1>
       <Accordion defaultActiveKey="0">
         {data.slice(0, 5).map((item, idx) => {

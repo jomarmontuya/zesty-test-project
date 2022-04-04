@@ -7,7 +7,7 @@ const Hero = ({ img, title, subtitle, home }) => {
       className="d-flex flex-column justify-content-center align-items-center gap-2 px-4"
     >
       <Layer />
-      <HeroText className="text-white">{title}</HeroText>
+      <HeroText className="text-white text-center">{title}</HeroText>
       <HeroSubText className="text-white  text-center mt-2">
         {subtitle}
       </HeroSubText>
