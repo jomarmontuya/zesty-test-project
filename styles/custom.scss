@@ -1,0 +1,10 @@
+/* make the customizations */
+$theme-colors: (
+  'theme-color-primary': #f26a2e,
+  'theme-color-secondary': #497edf,
+  'theme-color-neutral': #102342,
+);
+
+/* import bootstrap to set changes */
+@import '../node_modules/bootstrap/scss/bootstrap';
+@import '~bootstrap/scss/bootstrap';
