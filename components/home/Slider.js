@@ -10,7 +10,7 @@ const Slider = ({ data }) => {
       <div className="py-5 text-center">
         <h1 className="text-uppercase my-5">our features</h1>
       </div>
-      <Col>
+      <Col lg={6}>
         <TextWrapper className="h-100 d-flex flex-column justify-content-center align-items-center gap-4">
           <h1>
             Spend Less Time Developing &{' '}
@@ -42,7 +42,7 @@ const Slider = ({ data }) => {
           </ul>
         </TextWrapper>
       </Col>
-      <Col>
+      <Col className='mt-5' lg={6}>
         <SliderWrapper>
           {data.map((item, idx) => {
             return (
